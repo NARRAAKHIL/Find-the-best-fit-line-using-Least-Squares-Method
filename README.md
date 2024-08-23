@@ -64,12 +64,8 @@ plt.show()
 ## Output:
 slope and y_intercept
 ![Screenshot 2024-08-23 110719](https://github.com/user-attachments/assets/a49dc7de-da55-41b9-b4c7-6bb74a24056d)
-
-
 y predicted
 ![Screenshot 2024-08-23 113323](https://github.com/user-attachments/assets/e1d00236-ddfc-4b38-a8e1-30a4177ef765)
-
-
 graph
 ![Screenshot 2024-08-23 113330](https://github.com/user-attachments/assets/753cf95b-28d9-4374-a87a-475ceb11d325)
 
